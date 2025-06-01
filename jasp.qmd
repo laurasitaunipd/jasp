@@ -1,0 +1,41 @@
+---
+title: "Great Graphs with JASP 2025"
+subtitle: "Candidate: Laura Sità"
+format: 
+  revealjs:
+    slide-number: true
+    theme: simple
+editor: visual
+---
+
+## Introduction 
+
+Inspired by [Mesquida et al. (2022)](https://doi.org/10.1098/rsos.220946), this submission brings to life one of their key methodological concerns, publication bias, through targeted data simulation and visualization. Rather than just describing the issue, I aimed to show how it looks, using a funnel plot and a raincloud plot to expose how selective reporting inflates effect sizes and distorts the scientific record. JASP made it easy to create publication-quality graphs that communicate complex patterns with clarity and immediacy. This visual approach turns a methodological point into something tangible, a visual approach that speaks for itself and could deserve recognition for what it makes visible.
+
+## Funnel plot
+
+<iframe src="sport.html" width="100%" height="600px" style="border:none; display:block; margin:auto; overflow-x:auto; transform:scale(0.9); transform-origin: top left;">
+
+</iframe>
+
+## Raincloud plot
+
+<iframe src="sport2.html" width="100%" height="750px" style="border:none; display:block; margin:auto; transform:scale(0.9); transform-origin: top center;">
+
+</iframe>
+
+## Materials & Contact
+
+<br>
+
+All files and code related to this submission are available at:\
+🔗 [github.com/laurasitaunipd/jasp](https://github.com/laurasitaunipd/jasp)
+
+<br>
+
+Feel free to reach out for any questions or collaboration:\
+📧 **laura.sita\@studenti.unipd.it**
+
+<br><br>
+
+Thank you for your consideration!
